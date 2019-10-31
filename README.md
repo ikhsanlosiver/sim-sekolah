@@ -1,2 +1,2 @@
-# sim-sekolah
-website sistem informasi sekolah
+# Ngoding bae
+bebas berkreasi
